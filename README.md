@@ -1,7 +1,7 @@
 # Olá, eu me chamo Vinícius Duarte! ✌🏻
 
 - 🖥️ Estou a procura do meu primeiro emprego como **Desenvolvedor FullStack!** 
-- 📚 Atualmente estudando programação na **<a href="https://www.alura.com.br/" target="_blank" rel="external" hreflang="pt-Br" style="text-decoration: none; color: white;">Alura 🔗</a> e <a href="https://www.cursoemvideo.com/" target="_blank" rel="external" hreflang="pt-Br" style="text-decoration: none; color: white;">Curso em Video 🔗</a>**.
+- 📚 Atualmente estudando programação na **[Alura](https://www.alura.com.br/) e [Curso em Video](https://www.cursoemvideo.com/)**.
 - 💬 Vamos conversar sobre **Games** 🎮, **Ciência** 🧬 e **Animes** ♟️!
 - 🎻 Estudo música desde pequeno, amante da família das cordas: **Violino** ❤️ **Cello** .
 - 📧 Minhas redes sociais é a forma mais fácil de conversarmos...
