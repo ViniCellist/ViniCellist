@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
 # Olá, eu me chamo Vinícius Duarte! ✌🏻
 
 - 🖥️ Estou a procura do meu primeiro emprego como **Desenvolvedor FullStack!** 
