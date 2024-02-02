@@ -1,21 +1,21 @@
-# Olá, eu me chamo Vinícius Duarte! ✌🏻
+# Hi, I'm Vinicius! ✌🏻
 
-- 🖥️ Estou a procura do meu primeiro emprego como **Desenvolvedor FullStack!** 
-- 📚 Atualmente estudando programação na **[Alura](https://www.alura.com.br/) e [Curso em Video](https://www.cursoemvideo.com/)**.
-- 💬 Vamos conversar sobre **Games** 🎮, **Ciência** 🧬 e **Animes** ♟️!
-- 🎻 Estudo música desde pequeno, amante da família das cordas: **Violino** ❤️ **Cello** .
-- 📧 Minhas redes sociais é a forma mais fácil de conversarmos...
-- 😄 Ele/Dele
+- 🖥️ I am looking for my first job as a **Front-end Dev!** 
+- 📚 Stuying Fullstack at **[Alura](https://www.alura.com.br/) and [Curso em Video](https://www.cursoemvideo.com/)**.
+- 💬 Let's talk about **Games** 🎮, **Science** 🧬 and **Animes** ♟️!
+- 🎻 Music studant since I was a kid! In love with string-bowed family: **Violin** ❤️ **Cello** .
+- 📧 My social networks are easiest way to reach me...
+- 😄 He/Him
 - 💪🏻 *__No pain, no gain!__*
 
 ```
-const caminho = 'o Senhor é meu pastor';
-const verdade = 'e nada me faltará';
-let eu = 'erros';
+let resp = await get('.self-dreams');
 
-while (eu === 'erros') {
-    eu = caminho + verdade;
-} 
+if (resp.status == 200) {
+    resp.data.forEach(dream => {
+        new Reality(dream)
+    })
+}
 ```
 
 ## Contato
