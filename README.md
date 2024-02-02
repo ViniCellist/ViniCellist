@@ -1,4 +1,4 @@
-# Hi, I'm Vinicius! ✌🏻
+# Hello there, I'm Vinicius! ✌🏻
 
 - 🖥️ I am looking for my first job as a **Front-end Dev!** 
 - 📚 Stuying Fullstack at **[Alura](https://www.alura.com.br/) and [Curso em Video](https://www.cursoemvideo.com/)**.
