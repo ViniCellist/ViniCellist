@@ -49,8 +49,8 @@ if (resp.status == 200) {
 ## Contact
 <a href="https://www.instagram.com/vinicius_duartesd/" title="Instagram"><img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" alt="Instagram" width="50px" height="50px"></a>
 <a href="https://www.facebook.com/vinicius.souzaduarte.7?mibextid=ZbWKwL" title="Facebook"><img src="https://github.com/get-icon/geticon/blob/master/icons/facebook.svg" alt="Facebook" width="50px" height="50px"></a>
-<!--<a href="" title=""><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt="" width="50px" height="50px"></a>-->
 <a href="https://www.linkedin.com/in/vinicius-de-souza-duarte-57937b192/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="LinkedIn" width="50px" height="50px"></a>
+<!--<a href="" title=""><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt="" width="50px" height="50px"></a>-->
 
 ---
 
