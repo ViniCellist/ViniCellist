@@ -55,4 +55,4 @@ if (resp.status == 200) {
 ---
 
 ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniCellist&show_icons=true&theme=radical)
-![Vini](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCellist&theme=blue-green&hide_progress=true)
+![Vini](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCellist&theme=blue-green&layout=donut)
