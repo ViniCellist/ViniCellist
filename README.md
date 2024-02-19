@@ -36,8 +36,8 @@ if (resp.status == 200) {
 <a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" alt="" width="50px" height="50px"></a>
 <a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/svelte-icon.svg" alt="" width="50px" height="50px"></a>
 <a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" alt="" width="50px" height="50px"></a>
-<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" alt="" width="50px" height="50px"></a>
-<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg" alt="" width="50px" height="50px"></a>-->
+<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" alt="" width="50px" height="50px"></a>-->
+<a href="https://sass-lang.com/documentation/" title="Sass" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg" alt="Sass" width="50px" height="50px"></a>
 
 <!--## DB
 <a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="" width="50px" height="50px"></a>
