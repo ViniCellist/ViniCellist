@@ -28,8 +28,8 @@ if (resp.status == 200) {
 <a href="https://www.java.com/pt-BR/" title="Java" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
 <a href="https://www.python.org/doc/" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>-->
 
-<!--## Libraries and Frameworks
-<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="" width="50px" height="50px"></a>
+## Libraries and Frameworks
+<!--<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="" width="50px" height="50px"></a>
 <a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/wordpress-icon.svg" alt="" width="50px" height="50px"></a>
 <a href="" title="" target="_blank"<img src="https://github.com/get-icon/geticon/blob/master/icons/vue.svg" alt="" width="50px" height="50px"></a>
 <a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" alt="" width="50px" height="50px"></a>
