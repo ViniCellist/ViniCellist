@@ -1,6 +1,6 @@
 # Hello there, I'm Vinicius! ✌🏻
 
-- 🖥️ I am looking for my first job as a **Front-end Dev!** 
+- 🖥️ I am looking for opportunities as a **Front-end Dev!** 
 - 📚 Stuying Fullstack at **[Alura](https://www.alura.com.br/) and [Curso em Video](https://www.cursoemvideo.com/)**.
 - 💬 Let's talk about **Games** 🎮, **Science** 🧬 and **Animes** ♟️!
 - 🎻 Music studant since I was a kid! In love with string-bowed family: **Violin** ❤️ **Cello** .
