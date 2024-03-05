@@ -40,7 +40,7 @@ if (resp.status == 200) {
 <a href="https://sass-lang.com/documentation/" title="Sass" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg" alt="Sass" width="50px" height="50px"></a>
 
 ## Database
-<a href="https://www.mysql.com/" title="mysql" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="" width="50px" height="50px"></a>
+<a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="" width="50px" height="50px"></a>
 <!--<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="" width="50px" height="50px"></a>-->
 
 ## Technologies
