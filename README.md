@@ -23,14 +23,14 @@ if (resp.status == 200) {
 <a href="https://www.w3schools.com/html/default.asp" title="HTML5" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
-<!--<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" title="C#" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px"></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" title="C#" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px"></a>
 <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" title="TypeScript" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" alt="TypeScript" width="50px" height="50px"></a>
-<a href="https://www.java.com/pt-BR/" title="Java" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
+<!--<a href="https://www.java.com/pt-BR/" title="Java" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
 <a href="https://www.python.org/doc/" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>-->
 
 ## Libraries and Frameworks
-<!--<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="" width="50px" height="50px"></a>
-<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/wordpress-icon.svg" alt="" width="50px" height="50px"></a>
+<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="" width="50px" height="50px"></a>
+<!--<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/wordpress-icon.svg" alt="" width="50px" height="50px"></a>
 <a href="" title="" target="_blank"<img src="https://github.com/get-icon/geticon/blob/master/icons/vue.svg" alt="" width="50px" height="50px"></a>
 <a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" alt="" width="50px" height="50px"></a>
 <a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" alt="" width="50px" height="50px"></a>
