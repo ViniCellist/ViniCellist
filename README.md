@@ -25,15 +25,11 @@ if (resp.status == 200) {
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" title="C#" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px"></a>
 <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" title="TypeScript" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" alt="TypeScript" width="50px" height="50px"></a>
-<!--<a href="https://www.java.com/pt-BR/" title="Java" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
-<a href="https://www.python.org/doc/" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>-->
+<!--<a href="https://www.java.com/pt-BR/" title="Java" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="Java" width="50px" height="50px"></a> -->
 
 ## Libraries and Frameworks
-<!--<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/wordpress-icon.svg" alt="" width="50px" height="50px"></a>
-<a href="" title="" target="_blank"<img src="https://github.com/get-icon/geticon/blob/master/icons/vue.svg" alt="" width="50px" height="50px"></a>
-<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" alt="" width="50px" height="50px"></a>
-<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" alt="" width="50px" height="50px"></a>
-<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/svelte-icon.svg" alt="" width="50px" height="50px"></a>-->
+
+<!--<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" alt="" width="50px" height="50px"></a> -->
 <a href="https://pt-br.legacy.reactjs.org/docs/getting-started.html" title="React" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="react" width="50px" height="50px"></a>
 <a href="https://getbootstrap.com/docs/3.4/getting-started/" title="BootStrap" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" alt="bootstrap" width="50px" height="50px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" alt="tailwind" width="50px" height="50px"></a>
@@ -50,7 +46,6 @@ if (resp.status == 200) {
 <a href="https://www.instagram.com/vinicius_duartesd/" title="Instagram" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" alt="Instagram" width="50px" height="50px"></a>
 <a href="https://www.facebook.com/vinicius.souzaduarte.7?mibextid=ZbWKwL" title="Facebook" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/facebook.svg" alt="Facebook" width="50px" height="50px"></a>
 <a href="https://www.linkedin.com/in/vinicius-de-souza-duarte-57937b192/" title="LinkedIn" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="LinkedIn" width="50px" height="50px"></a>
-<!--<a href="" title="" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt="" width="50px" height="50px"></a>-->
 
 ---
 
